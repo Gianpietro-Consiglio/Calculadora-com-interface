@@ -1,0 +1,10 @@
+C:\Users\Gianpietro Consiglio\source\repos\calculadora_original\calculadora_original\bin\Debug\calculadora_original.exe.config
+C:\Users\Gianpietro Consiglio\source\repos\calculadora_original\calculadora_original\bin\Debug\calculadora_original.exe
+C:\Users\Gianpietro Consiglio\source\repos\calculadora_original\calculadora_original\bin\Debug\calculadora_original.pdb
+C:\Users\Gianpietro Consiglio\source\repos\calculadora_original\calculadora_original\obj\Debug\calculadora_original.csproj.AssemblyReference.cache
+C:\Users\Gianpietro Consiglio\source\repos\calculadora_original\calculadora_original\obj\Debug\calculadora_original.Form1.resources
+C:\Users\Gianpietro Consiglio\source\repos\calculadora_original\calculadora_original\obj\Debug\calculadora_original.Properties.Resources.resources
+C:\Users\Gianpietro Consiglio\source\repos\calculadora_original\calculadora_original\obj\Debug\calculadora_original.csproj.GenerateResource.cache
+C:\Users\Gianpietro Consiglio\source\repos\calculadora_original\calculadora_original\obj\Debug\calculadora_original.csproj.CoreCompileInputs.cache
+C:\Users\Gianpietro Consiglio\source\repos\calculadora_original\calculadora_original\obj\Debug\calculadora_original.exe
+C:\Users\Gianpietro Consiglio\source\repos\calculadora_original\calculadora_original\obj\Debug\calculadora_original.pdb
