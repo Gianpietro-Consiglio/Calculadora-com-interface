@@ -17,6 +17,7 @@ namespace calculadora_original
         bool subtracao = false;
         bool divisao = false;
         bool multiplicacao = false;
+        bool resto = false;
         public Form1()
         {
             InitializeComponent();
@@ -159,7 +160,7 @@ namespace calculadora_original
                 txtResultado.Text = Convert.ToString(decimal.Parse(txtResultado.Text) * calculo);
             }  
 
-            else
+            else if (resto  == true)
             {
                 txtResultado.Text = Convert.ToString(calculo % decimal.Parse(txtResultado.Text));
             }
